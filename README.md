@@ -69,12 +69,3 @@ This project is an AI-powered resume parser designed to automate the analysis of
 - **Theme:** Resumes with HR-related skills and ETL knowledge.
 
 ---
-
-
-## **Usage**
-
-### **Run the Project**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
